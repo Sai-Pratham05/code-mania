@@ -97,7 +97,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Your Name - [@yourusername](https://twitter.com/yourusername)
 
-Project Link: [https://github.com/yourusername/code-mania](https://github.com/yourusername/code-mania)
+Project Link: [https://github.com/Sai-Pratham05/code-mania](https://github.com/Sai-Pratham05/code-mania)
 
 ---
 ⭐️ Star this repo if you find it helpful!
