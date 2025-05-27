@@ -1,6 +1,6 @@
 # Code-Mania - Online Code Editor and Compiler
 
-![Code-Mania](demo.png)
+![Code-Mania Demo](./public/assets/demo.png)
 
 Code-Mania is a powerful online code editor and compiler that supports 40+ programming languages. Built with React and powered by the Judge0 API, it provides a seamless coding experience with features like syntax highlighting, multiple themes, and real-time compilation.
 
