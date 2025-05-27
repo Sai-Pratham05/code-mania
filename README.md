@@ -26,7 +26,7 @@ Code-Mania is a powerful online code editor and compiler that supports 40+ progr
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/code-mania.git
+git clone https://github.com/Sai-Pratham05/code-mania.git
 cd code-mania
 ```
 
@@ -66,12 +66,6 @@ The application will be available at `http://localhost:3000`
 5. Click "Compile and Execute" to run your code
 6. View the output or error messages in the output window
 
-## 🌙 Dark Mode
-
-Code-Mania comes with a built-in dark mode feature:
-- Click the dark mode toggle in the top-right corner
-- Your preference is automatically saved
-- Affects both the editor and the UI
 
 ## 🤝 Contributing
 
@@ -93,11 +87,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Monaco Editor](https://microsoft.github.io/monaco-editor/) team
 - All contributors and supporters
 
-## 📞 Contact
-
-Your Name - [@yourusername](https://twitter.com/yourusername)
-
-Project Link: [https://github.com/Sai-Pratham05/code-mania](https://github.com/Sai-Pratham05/code-mania)
-
 ---
-⭐️ Star this repo if you find it helpful!
+
+<div align="center">
+Made with ❤️ by Sai Pratham | Code-Mania
+</div>

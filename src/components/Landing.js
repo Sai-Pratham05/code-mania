@@ -215,7 +215,7 @@ const Landing = () => {
       />
 
       <a
-        href="https://github.com/manuarora700/react-code-editor"
+        href="https://github.com/Sai-Pratham05"
         title="Fork me on GitHub"
         class="github-corner"
         target="_blank"
